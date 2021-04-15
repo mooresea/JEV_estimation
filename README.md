@@ -1,6 +1,6 @@
 # JEV_estimation
 
-This repository contains data and code to recreate analysis for the MedRxiv preprint: "The current burden of Japanese encephalitis and the estimated impacts of vaccination: Combining estimates of the spatial distribution and transmission intensity of a zoonotic pathogen."
+This repository contains data and code to recreate the analysis for the MedRxiv preprint: "The current burden of Japanese encephalitis and the estimated impacts of vaccination: Combining estimates of the spatial distribution and transmission intensity of a zoonotic pathogen."
 
 https://medrxiv.org/cgi/content/short/2021.04.08.21255086v1
 
